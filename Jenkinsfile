@@ -5,7 +5,7 @@ pipeline{
     stages {
         stage('SCM') {
             steps {
-                git 'https://github.com/Naresh240/HelloSpringEKS.git'
+                git 'https://github.com/cloudtechmasters/springboot-weekend-session.git'
             }
         }
         stage('Build') {
