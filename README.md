@@ -45,4 +45,6 @@
  
  ## Create new jenkins pipeline job by click on New Item
  Paste content of Jenkins file with pipeline section
+ 
+ ![image](https://user-images.githubusercontent.com/68885738/90334784-a6637300-dfed-11ea-8ffe-90295845d2e2.png)
  ## Click on Build now
